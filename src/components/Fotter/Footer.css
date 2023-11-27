@@ -1,0 +1,88 @@
+.discription {
+  padding-top: 45px;
+  text-align: center;
+}
+.discription_pera {
+  margin: 3px 0;
+  font-size: 14px;
+  /* color: #495057; */
+  font-weight: 700;
+}
+.discription_heading {
+  margin: 0;
+}
+.discription_input_div {
+  text-align: center;
+  padding-top: 20px;
+}
+.discription_input {
+  width: 48%;
+  font-size: 14px;
+  padding: 19px;
+  border: none;
+  background-color: #e9ecef;
+}
+.about_us_div {
+  text-align: center;
+  border-top: 1px solid;
+  padding: 20px;
+
+  margin: 43px 39px;
+  border-bottom: 1px solid;
+}
+.about_us_discription {
+  color: grey;
+  font-size: 16px;
+  line-height: 1.8;
+  padding: 0 162px;
+  margin-top: 10px;
+}
+.about_us {
+  font-size: 25px;
+  margin: 0;
+}
+.readmore {
+  text-decoration: none;
+  color: grey;
+  cursor: pointer;
+}
+.readmore:hover {
+  color: red;
+}
+.footer_lists {
+  display: flex;
+
+  justify-content: space-around;
+}
+.footer {
+  list-style: none;
+}
+.list_heading {
+  cursor: context-menu;
+  font-weight: bold;
+  font-size: 19px;
+}
+li {
+  cursor: pointer;
+  padding: 7px 0;
+  padding: 7px 0px;
+  font-weight: 500;
+}
+.fb {
+  background-color: #1864ab;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 8px;
+  margin: 8px 0px;
+}
+.insta {
+  cursor: pointer;
+  background-color: #a61e4d;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 8px;
+}

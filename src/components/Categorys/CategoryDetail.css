@@ -1,0 +1,52 @@
+.CategoryDetails {
+  padding: 10px 23px;
+}
+.detail-first_div,
+.detail-sec_div {
+  display: flex;
+  gap: 10px;
+  padding: 8px 4px;
+  align-items: center;
+}
+.home-text {
+  font-size: 14px;
+  text-decoration: none;
+  list-style: none;
+  color: #343a40;
+}
+.home-text:hover {
+  color: red;
+}
+.category-name {
+  font-weight: bold;
+  list-style: none;
+  font-size: 17px;
+}
+.title-text {
+  list-style: none;
+  font-size: 14px;
+}
+.total-items {
+  list-style: none;
+  color: #343a40;
+  font-size: 16px;
+}
+.detail-third_div {
+  padding: 9px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.filters-text {
+  margin: 0;
+  padding: 0 5px;
+}
+.select-tag {
+  padding: 10px 50px;
+  border-color: #adb5bd;
+  font-size: 14px;
+  color: #343a40;
+}
+.option {
+  font-size: 14px;
+}

@@ -1,0 +1,38 @@
+.shop_by_trend_p_span-1 {
+  color: #495057;
+  font-weight: 400;
+}
+p {
+  padding: 0 21px;
+  font-size: 14px;
+}
+.shop_by_trend_Heading {
+  color: #495057;
+  text-align: center;
+  font-weight: 400;
+}
+.casual_formal_img_div,
+.linen_checks_img_div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 13px;
+  gap: 6px;
+}
+.casual_img,
+.linen_img,
+.checks_img,
+.formal_img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.casul_img-div,
+.linen_img_div {
+  width: 70%;
+}
+.formal_img-div,
+.checks_img_div {
+  width: 30%;
+}

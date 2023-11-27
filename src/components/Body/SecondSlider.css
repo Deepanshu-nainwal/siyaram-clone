@@ -1,0 +1,19 @@
+.second-slider_main-div {
+  text-align: center;
+}
+.second-slider_main-div_heading {
+  margin-bottom: 0;
+}
+.second-slider_main-div_pera {
+  margin-top: 0;
+  font-size: 17px;
+  color: #6b6b6b;
+  padding: 11px;
+}
+.sec-slider {
+  padding: 0px 63px;
+  background-color: #e9ecef;
+}
+.sec_slider_img {
+  width: 90%;
+}

@@ -1,0 +1,18 @@
+.slider {
+  background-color: gainsboro;
+  padding: 0 24px;
+  width: 96%;
+  height: 95vh;
+}
+.slide-box {
+  width: 100vh;
+  height: 100vh;
+}
+
+.banner-img {
+  vertical-align: middle;
+  border-style: none;
+  height: 80vh;
+  width: 100vi;
+  object-fit: cover;
+}

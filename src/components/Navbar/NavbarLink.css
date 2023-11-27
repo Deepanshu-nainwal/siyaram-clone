@@ -1,0 +1,17 @@
+.nav-links {
+  padding: 16px 175px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 650;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.link {
+  color: #495057;
+  text-decoration: none;
+}
+.link:hover {
+  color: red;
+}
